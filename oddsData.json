@@ -1,0 +1,291 @@
+[
+  {
+    "id": "af7a17725792c4574491aba7d52509ce",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-23T18:45:00Z",
+    "home_team": "Atalanta BC",
+    "away_team": "Como",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 1.44
+              },
+              {
+                "name": "Como",
+                "price": 6.75
+              },
+              {
+                "name": "Draw",
+                "price": 4.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3d35665207fb0c03b40d2a8df873aad3",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-27T18:45:00Z",
+    "home_team": "AC Milan",
+    "away_team": "Lecce",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "AC Milan",
+                "price": 1.36
+              },
+              {
+                "name": "Lecce",
+                "price": 7.75
+              },
+              {
+                "name": "Draw",
+                "price": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b49ac3e2ee7c7ed7a7a0987ff31ee9f4",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-28T13:00:00Z",
+    "home_team": "Udinese",
+    "away_team": "Inter Milan",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Inter Milan",
+                "price": 1.54
+              },
+              {
+                "name": "Udinese",
+                "price": 6
+              },
+              {
+                "name": "Draw",
+                "price": 4.2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b5634ac669501eee8028d66273260946",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-28T16:00:00Z",
+    "home_team": "Genoa",
+    "away_team": "Juventus",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Genoa",
+                "price": 4.5
+              },
+              {
+                "name": "Juventus",
+                "price": 1.87
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "79f37358b6a108447a46627f3b382771",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-28T18:45:00Z",
+    "home_team": "Bologna",
+    "away_team": "Atalanta BC",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Atalanta BC",
+                "price": 2.38
+              },
+              {
+                "name": "Bologna",
+                "price": 2.95
+              },
+              {
+                "name": "Draw",
+                "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "985b647e0170f952cbcd322d9774951b",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-29T10:30:00Z",
+    "home_team": "Torino",
+    "away_team": "Lazio",
+    "bookmakers": []
+  },
+  {
+    "id": "71a02dbb8840012527c43c33d37476f7",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-29T13:00:00Z",
+    "home_team": "AS Roma",
+    "away_team": "Venezia",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "AS Roma",
+                "price": 1.44
+              },
+              {
+                "name": "Venezia",
+                "price": 7
+              },
+              {
+                "name": "Draw",
+                "price": 4.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac85c2f8e44ffd984271d1997a87ef10",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-29T13:00:00Z",
+    "home_team": "Como",
+    "away_team": "Hellas Verona",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Como",
+                "price": 2.25
+              },
+              {
+                "name": "Hellas Verona",
+                "price": 3.25
+              },
+              {
+                "name": "Draw",
+                "price": 3.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8ecbc2837e5326e68b39fc5c8cf754f0",
+    "sport_key": "soccer_italy_serie_a",
+    "sport_title": "Serie A - Italy",
+    "commence_time": "2024-09-29T16:00:00Z",
+    "home_team": "Empoli",
+    "away_team": "Fiorentina",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-23T05:11:19Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-23T05:11:19Z",
+            "outcomes": [
+              {
+                "name": "Empoli",
+                "price": 3.4
+              },
+              {
+                "name": "Fiorentina",
+                "price": 2.2
+              },
+              {
+                "name": "Draw",
+                "price": 3.3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
