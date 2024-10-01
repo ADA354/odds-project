@@ -39,9 +39,9 @@ Follow these steps to set up the project:
    npm install
    ```
 
-4. Create a `.env` file in the root directory and add your API key from [The Odds API](https://the-odds-api.com/):
+4. Login to the API website and fetch your key. Create a `.env` file in the root directory and add your API key in the file exactly as shown below:
    ```
-   API_KEY="YOUR_API_KEY"
+   api_key="YOUR_API_KEY"
    ```
 
 5. Start the application:
@@ -52,7 +52,3 @@ Follow these steps to set up the project:
 ## Usage
 
 Once the application is running, it will fetch real-time football odds for upcoming matches in La Liga, Serie A, and the Europa League for the next 7 days. Head-to-head odds will be displayed for each match. Make sure to add your API key in the `.env` file to enable data fetching.
-
----
-
-This version omits the license section. Let me know if this works for you!
