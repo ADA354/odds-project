@@ -1,32 +1,32 @@
 [
   {
-    "id": "af7a17725792c4574491aba7d52509ce",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-23T18:45:00Z",
-    "home_team": "Atalanta BC",
-    "away_team": "Como",
+    "id": "91238a392dd8efab96c732bbee7848f5",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Slavia Praha",
+    "away_team": "Ajax",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Atalanta BC",
-                "price": 1.44
+                "name": "Ajax",
+                "price": 3.4
               },
               {
-                "name": "Como",
-                "price": 6.75
+                "name": "Slavia Praha",
+                "price": 2.05
               },
               {
                 "name": "Draw",
-                "price": 4.6
+                "price": 3.6
               }
             ]
           }
@@ -35,29 +35,143 @@
     ]
   },
   {
-    "id": "3d35665207fb0c03b40d2a8df873aad3",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-27T18:45:00Z",
-    "home_team": "AC Milan",
-    "away_team": "Lecce",
+    "id": "81b6bc0b3b93e0834aabc9c60896722b",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Real Sociedad",
+    "away_team": "Anderlecht",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "AC Milan",
+                "name": "Anderlecht",
+                "price": 5.25
+              },
+              {
+                "name": "Real Sociedad",
+                "price": 1.67
+              },
+              {
+                "name": "Draw",
+                "price": 3.75
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ca9a2e01f92b6b2541abe130e4d69743",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Hoffenheim",
+    "away_team": "Dynamo Kyiv",
+    "bookmakers": []
+  },
+  {
+    "id": "05fedda8895632ea0e8f934651fad96f",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Maccabi Tel Aviv",
+    "away_team": "FC Midtjylland",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "FC Midtjylland",
+                "price": 2.3
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "price": 2.88
+              },
+              {
+                "name": "Draw",
+                "price": 3.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1310aa168d27e23fbb8eb68138612b24",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "FK RFS",
+    "away_team": "Galatasaray",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "FK RFS",
+                "price": 8.25
+              },
+              {
+                "name": "Galatasaray",
                 "price": 1.36
               },
               {
-                "name": "Lecce",
-                "price": 7.75
+                "name": "Draw",
+                "price": 5.25
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b9125278a46a4b4543f43403a773fb86",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Ferencváros TC",
+    "away_team": "Tottenham Hotspur",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "Ferencváros TC",
+                "price": 8
+              },
+              {
+                "name": "Tottenham Hotspur",
+                "price": 1.36
               },
               {
                 "name": "Draw",
@@ -70,33 +184,33 @@
     ]
   },
   {
-    "id": "b49ac3e2ee7c7ed7a7a0987ff31ee9f4",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-28T13:00:00Z",
-    "home_team": "Udinese",
-    "away_team": "Inter Milan",
+    "id": "adcf61e3ec516852592dc2a93184bb65",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Qarabağ FK",
+    "away_team": "Malmo FF",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Inter Milan",
-                "price": 1.54
+                "name": "Malmo FF",
+                "price": 3.7
               },
               {
-                "name": "Udinese",
-                "price": 6
+                "name": "Qarabağ FK",
+                "price": 1.91
               },
               {
                 "name": "Draw",
-                "price": 4.2
+                "price": 3.7
               }
             ]
           }
@@ -105,33 +219,33 @@
     ]
   },
   {
-    "id": "b5634ac669501eee8028d66273260946",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-28T16:00:00Z",
-    "home_team": "Genoa",
-    "away_team": "Juventus",
+    "id": "7a07ef7595cb0d1d9ff3c4e30de9be2d",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "SS Lazio",
+    "away_team": "Nice",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Genoa",
-                "price": 4.5
+                "name": "Nice",
+                "price": 4.4
               },
               {
-                "name": "Juventus",
-                "price": 1.87
+                "name": "SS Lazio",
+                "price": 1.83
               },
               {
                 "name": "Draw",
-                "price": 3.3
+                "price": 3.5
               }
             ]
           }
@@ -140,33 +254,33 @@
     ]
   },
   {
-    "id": "79f37358b6a108447a46627f3b382771",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-28T18:45:00Z",
-    "home_team": "Bologna",
-    "away_team": "Atalanta BC",
+    "id": "63ab21bfeba6c1eb508da8fd24ca9e33",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T16:45:00Z",
+    "home_team": "Olympiakos Piraeus",
+    "away_team": "SC Braga",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Atalanta BC",
-                "price": 2.38
+                "name": "Olympiakos Piraeus",
+                "price": 2.1
               },
               {
-                "name": "Bologna",
-                "price": 2.95
-              },
-              {
-                "name": "Draw",
+                "name": "SC Braga",
                 "price": 3.4
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
               }
             ]
           }
@@ -175,42 +289,112 @@
     ]
   },
   {
-    "id": "985b647e0170f952cbcd322d9774951b",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-29T10:30:00Z",
-    "home_team": "Torino",
-    "away_team": "Lazio",
+    "id": "bfbd52d057371a4f936c3032dc686dce",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Athletic Bilbao",
+    "away_team": "AZ Alkmaar",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "Athletic Bilbao",
+                "price": 1.69
+              },
+              {
+                "name": "AZ Alkmaar",
+                "price": 5
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c8e344727ebd6a75491c255a4fe00240",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Besiktas JK",
+    "away_team": "Eintracht Frankfurt",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "Besiktas JK",
+                "price": 2.75
+              },
+              {
+                "name": "Eintracht Frankfurt",
+                "price": 2.45
+              },
+              {
+                "name": "Draw",
+                "price": 3.5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8fb61e38f469f65099ad8f20df4f372b",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Union Saint-Gilloise",
+    "away_team": "Bodø/Glimt",
     "bookmakers": []
   },
   {
-    "id": "71a02dbb8840012527c43c33d37476f7",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-29T13:00:00Z",
-    "home_team": "AS Roma",
-    "away_team": "Venezia",
+    "id": "9168743d75460bf3326911225144a7e2",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "FC Twente Enschede",
+    "away_team": "Fenerbahce",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "AS Roma",
-                "price": 1.44
+                "name": "FC Twente Enschede",
+                "price": 2.75
               },
               {
-                "name": "Venezia",
-                "price": 7
+                "name": "Fenerbahce",
+                "price": 2.45
               },
               {
                 "name": "Draw",
-                "price": 4.5
+                "price": 3.6
               }
             ]
           }
@@ -219,33 +403,33 @@
     ]
   },
   {
-    "id": "ac85c2f8e44ffd984271d1997a87ef10",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-29T13:00:00Z",
-    "home_team": "Como",
-    "away_team": "Hellas Verona",
+    "id": "ac5e1155b6e1b6a39bf1485aca4107eb",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "PAOK",
+    "away_team": "FCSB",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Como",
-                "price": 2.25
+                "name": "FCSB",
+                "price": 5.25
               },
               {
-                "name": "Hellas Verona",
-                "price": 3.25
+                "name": "PAOK",
+                "price": 1.61
               },
               {
                 "name": "Draw",
-                "price": 3.25
+                "price": 4.1
               }
             ]
           }
@@ -254,33 +438,112 @@
     ]
   },
   {
-    "id": "8ecbc2837e5326e68b39fc5c8cf754f0",
-    "sport_key": "soccer_italy_serie_a",
-    "sport_title": "Serie A - Italy",
-    "commence_time": "2024-09-29T16:00:00Z",
-    "home_team": "Empoli",
-    "away_team": "Fiorentina",
+    "id": "d36ddb7921334ece933950d2bc20fe0a",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "IF Elfsborg",
+    "away_team": "Roma",
     "bookmakers": [
       {
         "key": "betmgm",
         "title": "BetMGM",
-        "last_update": "2024-09-23T05:11:19Z",
+        "last_update": "2024-09-30T22:02:06Z",
         "markets": [
           {
             "key": "h2h",
-            "last_update": "2024-09-23T05:11:19Z",
+            "last_update": "2024-09-30T22:02:06Z",
             "outcomes": [
               {
-                "name": "Empoli",
+                "name": "IF Elfsborg",
+                "price": 4
+              },
+              {
+                "name": "Roma",
+                "price": 1.83
+              },
+              {
+                "name": "Draw",
+                "price": 3.8
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d534d085de792881d355f4cb1aa69aa3",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Rangers FC",
+    "away_team": "Lyon",
+    "bookmakers": []
+  },
+  {
+    "id": "de4c977ee4503226245f6af9d0241248",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Porto",
+    "away_team": "Manchester United",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "Manchester United",
+                "price": 2.45
+              },
+              {
+                "name": "Porto",
+                "price": 2.85
+              },
+              {
+                "name": "Draw",
                 "price": 3.4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a83513e7948cf286973fe3fd70e71081",
+    "sport_key": "soccer_uefa_europa_league",
+    "sport_title": "UEFA Europa League",
+    "commence_time": "2024-10-03T19:00:00Z",
+    "home_team": "Viktoria Plzeň",
+    "away_team": "PFC Ludogorets Razgrad",
+    "bookmakers": [
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2024-09-30T22:02:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2024-09-30T22:02:06Z",
+            "outcomes": [
+              {
+                "name": "PFC Ludogorets Razgrad",
+                "price": 4.6
               },
               {
-                "name": "Fiorentina",
-                "price": 2.2
+                "name": "Viktoria Plzeň",
+                "price": 1.74
               },
               {
                 "name": "Draw",
-                "price": 3.3
+                "price": 3.8
               }
             ]
           }
